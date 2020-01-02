@@ -1,5 +1,5 @@
-# hotel_management
-## a  12th grade school project on hotel management with full datastructure created using python tkinter and mysql.
+# Hotel Management
+## A  12th grade school project on hotel management with full datastructure created using python tkinter and mysql.
 
 Development Environment :
 - Python3.7 Interpreter 
